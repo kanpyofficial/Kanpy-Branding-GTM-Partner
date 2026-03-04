@@ -1,2 +1,2 @@
-# Kanpy-Branding-GTM-Partner
+# Kanpy Branding-GTM-Partner
 Kanpy Landing Page
